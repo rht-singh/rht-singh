@@ -1,27 +1,58 @@
 # Hey there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### I'm Pradeep Jangid, CS Graduate.  I am tech enthusiast, I worked on mostly backend part of the projects in Python,Java,.Ts,.Js. I like to explore new technologies and develop software solutions and quick hacks. Currently focusing on Cloud Architecture & Software Development Modals. 
+#### I'm Rohit, CS Graduate.  I am tech enthusiast, I worked on mostly backend part of the projects in .Ts,.Js. I like to explore new technologies and develop software solutions and quick hacks. 
 
  ## 🙋‍♂️ About Me
 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 🔥 I'm also trying to hone my skills in the field of  **Web Developement And Blockchain**
+- 🏄‍I am Software Developer looking for Full Stack Opportunity .
+- 😄 I usually like to make open source contributions.
+- 🤔 I’m looking to help with NodeJS & Python based Projects.
+- 🌱 I love to learn new things and ready to help others.
+- 🎨 Fun fact: In my free time, you'll find me listening music or watching Web Series.
+- 👯 And Many More...
 - 💻 All of my projects are available at [http://rhtlive.tk](http://rhtlive.tk)
 - 📫 Drop a mail at **rhtroy72@gmail.com**
 
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+
 ### 👀 My Github Stats
 
-[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=AdityaPandey03&count_private=true&show_icons=true&theme=radical)](https://github.com/AdityaPandey03)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPandey03&show_icons=true&theme=radical&layout=compact)](https://github.com/AdityaPandey03)
+[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rht-singh&count_private=true&show_icons=true&theme=radical)](https://github.com/rht-singh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rht-singh&show_icons=true&theme=radical&layout=compact)](https://github.com/rht-singh)
 </a>
 
 <p align="center">
     <a href="https://github.com/rht-singh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aditya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPandey03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rht-singh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-<a href="https://github.com/rht-singh/github-readme-activity-graph"><img alt="Aditya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AdityaPandey03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/rht-singh/github-readme-activity-graph"><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rht-singh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Connect with me  
 <div align="center">
