@@ -1,5 +1,4 @@
 # Hey there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- I'm Rohit, B.Tech Pursuing.  I am tech enthusiast, I worked on mostly backend part of the projects in .Ts,.Js. I like to explore new technologies and develop software solutions and quick hacks. 
 
  ## 🙋‍♂️ About Me
 
@@ -7,11 +6,6 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 🔥 I'm also trying to hone my skills in the field of  **Web Developement And Blockchain**
 - 🏄‍I am Software Developer looking for Full Stack Opportunity .
-- 😄 I usually like to make open source contributions.
-- 🤔 I’m looking to help with NodeJS & Python based Projects.
-- 🌱 I love to learn new things and ready to help others.
-- 🎨 Fun fact: In my free time, you'll find me listening music or watching Web Series.
-- 👯 And Many More...
 - 💻 All of my projects are available at [http://rhtlive.tk](http://rhtlive.tk)
 - 📫 Drop a mail at **rhtroy72@gmail.com**
 
