@@ -7,7 +7,7 @@
 - 🔥 I'm also trying to hone my skills in the field of  **Web Developement And Blockchain**
 - 🏄‍I am Software Developer looking for Full Stack Opportunity .
 - 💻 All of my projects are available at [http://rhtlive.tk](http://rhtlive.tk)
-- 📫 Drop a mail at **rhtroy72@gmail.com**
+- 📫 Drop a mail at **rhtsingh172@gmail.com**
 
 ### 🛠 &nbsp;Tech Stack
 
